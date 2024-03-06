@@ -2,10 +2,10 @@
 
 
 
-- 🏛️ Education: Finished my Master's Degree in Computer Science at [Christian-Albrecht University of Kiel, Germany](https://www.uni-kiel.de/de/)
-- ⛑️ Work: At the moment, I'm employed as a Research assistant at [IKMB](https://www.ikmb.uni-kiel.de/)
-- 🎭 Who am I: Super friendly guy who loves to do what he enjoys!! Definitely not a nerdy CS guy.  I like playing Table Tennis, Basketball, and Football.The thing that best represents me is meeting new people and chatting with them for hours!
-- ♨️ Portfolio : [Mithun Das](https://mithundas.portfoliobox.net/)
+- 🏛️ Education: Completed my Master's Degree in Computer Science at [Christian-Albrecht University of Kiel, Germany](https://www.uni-kiel.de/de/).
+- ⛑️ Work: Currently employed as a Research Assistant at [IKMB](https://www.ikmb.uni-kiel.de/).
+- 🎭 Who am I: I'm a super friendly guy who loves doing what he enjoys!! Definitely not just a nerdy CS guy. I enjoy playing Table Tennis, Basketball, and Football. What best represents me is meeting new people and chatting with them for hours!
+- ♨️ Portfolio: [Mithun Das](https://mithundas.portfoliobox.net/)
 
 
 ### Currently Exploring and Learning 🧠 
