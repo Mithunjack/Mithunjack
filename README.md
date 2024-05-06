@@ -3,7 +3,7 @@
 
 
 - 🏛️ Education: Completed my Master's Degree in Computer Science at [Christian-Albrecht University of Kiel, Germany](https://www.uni-kiel.de/de/).
-- ⛑️ Work: Currently employed as a Software Engineer at [Lufthansa Airplus International](https://www.airplus.com/de/de/).
+- ⛑️ Work: Currently employed as a Software Engineer at [Lufthansa Airplus International](https://www.airplus.com/de/en/).
 - 🎭 Who am I: I'm a super friendly guy who loves doing what he enjoys!! Definitely not just a nerdy CS guy. I enjoy playing Table Tennis, Basketball, and Football. What best represents me is meeting new people and chatting with them for hours!
 - ♨️ Portfolio: [Mithun Das](https://mithundas.portfoliobox.net/)
 
