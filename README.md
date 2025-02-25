@@ -46,7 +46,7 @@
 
 ### Currently Exploring and Learning 🧠 
 
-- I am reading the book *Designing Machine Learning Systems*.  
+- I am reading the book [*Designing Machine Learning Systems*](https://www.google.de/books/edition/Designing_Machine_Learning_Systems/EThwEAAAQBAJ?hl=en&gbpv=0).  
 - I am practicing machine learning tools such as MLflow, Hugging Face, Weights & Biases, and Optuna.
 
 
