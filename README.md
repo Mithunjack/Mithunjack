@@ -44,6 +44,17 @@
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" height="20">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="23">
 
+### Currently Exploring and Learning 🧠 
+
+- I am reading the book *Designing Machine Learning Systems*.  
+- I am practicing machine learning tools such as MLflow, Hugging Face, Weights & Biases, and Optuna.
+
+
+
+
+
+
+
 #### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-das-2a179614a/)
