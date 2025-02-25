@@ -8,13 +8,6 @@
 - ♨️ Portfolio: [Mithun Das](https://www.linkedin.com/in/mithun-das-2a179614a/)
 
 
-### Currently Exploring and Learning 🧠 
-
-
-- Finished my **Master Thesis** in *Denoising 3D TEM Tomography via Advanced Neural Radiance Fields (NeRF)* with a Grade point of 1 (German Scale). Currently working on publication [here](https://github.com/Mithunjack/Thesis-NeRFs).
-- Started participating in Kaggle competitions [here](https://github.com/Mithunjack/Kaggle-competitions).
-
-
 ### Skills 👨‍💻
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
