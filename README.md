@@ -65,5 +65,10 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="20">
 </a>
 
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithunjack&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
 
 
