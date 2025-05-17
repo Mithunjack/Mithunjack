@@ -3,7 +3,7 @@
 
 
 - 🏛️ Education: Completed my Master's Degree in Computer Science(Data Science and Machine Learning) at [Christian-Albrecht University of Kiel, Germany](https://www.uni-kiel.de/de/).
-- ⛑️ Work: Currently employed as a Machine Learning Engineer at [DigitalTwin Techonology GmbH](https://www.digitaltwin.technology/).
+- ⛑️ Profession: Currently employed as a Machine Learning Engineer at [DigitalTwin Techonology GmbH](https://www.digitaltwin.technology/).
 - 🎭 Who am I: I'm a super friendly guy who loves doing what he enjoys!! Definitely not just a nerdy CS guy. I enjoy playing Table Tennis 🏓, Basketball 🏀, and Football ⚽, Cycling 🚴. What best represents me is meeting new people and chatting with them for hours!
 - ♨️ Portfolio: [Mithun Das](https://www.linkedin.com/in/mithun-das-2a179614a/)
 
